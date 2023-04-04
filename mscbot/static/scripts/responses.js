@@ -15,7 +15,7 @@ function getBotResponse(input) {
         return "Talk to you later!";
     }    else if (input == "Name of the owner") {
             return "Rahul Vishwakarma";
-    }    else if (input == "admission timing") {
+    }    else if (input == "Admission timing") {
             return "10:00Am To 6:00Pm";
         }    else if (input == "Which std are avaliable") {
             return "School section:- nursery,junior,Senior and Classes:-1st Std To 10th std";
