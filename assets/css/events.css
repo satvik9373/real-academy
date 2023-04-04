@@ -188,3 +188,12 @@ section .image-gallery .text_content .followers{
     font-size: 25px;
   }
 }
+.image-gallery header{
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  background: #24292d;
+  padding: 20px 0;
+  letter-spacing: 1px;
+}
