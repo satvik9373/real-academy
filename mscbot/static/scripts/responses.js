@@ -27,6 +27,10 @@ function getBotResponse(input) {
             return "Real Academy";   
 }    else if (input == "goodbye") {
             return "Talk to you later!";
+        }    else if (input == "Whatsapp Number") {
+            return "Contact On this numbers:-9158051064";
+        }    else if (input == "Whatsapp no.") {
+            return "Contact On this numbers:-9158051064";
     } else {
         return "Try asking something else!";
     }
