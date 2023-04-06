@@ -152,7 +152,7 @@ html {
 }
 
 body {
-  background-color: rgb(250, 250, 229);
+  background-color: #fff;
   color: var(--gray-web);
   font-size: 1.6rem;
   line-height: 1.75;
