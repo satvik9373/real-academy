@@ -574,7 +574,7 @@ body {
   #COURSE
 \*-----------------------------------*/
 
-.course { background-color: var(--isabelline); }
+.course { background-color: rgb(245, 245, 155); }
 
 .course-card {
   position: relative;
